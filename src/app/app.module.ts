@@ -6,12 +6,16 @@ import { HeaderComponent } from './components/header/header.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { SearchBarComponent } from './components/search-bar/search-bar.component';
 import { HttpClientModule } from '@angular/common/http';
+import { ProductItemComponent } from './components/product-item/product-item.component';
+import { ProductsComponent } from './components/products/products.component';
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     FooterComponent,
-    SearchBarComponent
+    SearchBarComponent,
+    ProductItemComponent,
+    ProductsComponent
   ],
   imports: [
     BrowserModule,

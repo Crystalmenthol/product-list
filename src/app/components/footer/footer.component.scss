@@ -1,0 +1,19 @@
+footer {
+    width: 100%;
+    height: 60px;
+    background-color: #1976D2;
+    justify-content: center;
+    display: flex;
+
+    .title {
+        font-size: 1rem;
+        color: white;
+        display: flex;
+        align-items: center;
+
+
+    }
+}
+app-search-bar {
+    float: right;
+}
