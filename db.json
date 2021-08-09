@@ -1,0 +1,81 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "name": "Mouse",
+            "category": "Computer Accessory",
+            "price": 1099,
+            "stock": 25
+        },
+        {
+            "id": 2,
+            "name": "Keyboard",
+            "category": "Computer Accessory",
+            "price": 3290,
+            "stock": 12
+        },
+        {
+            "id": 3,
+            "name": "Keycaps",
+            "category": "Computer Accessory",
+            "price": 2099,
+            "stock": 15
+        },
+        {
+            "id": 4,
+            "name": "Monitor 25 Inch",
+            "category": "Computer Accessory",
+            "price": 12500,
+            "stock": 25
+        },
+        {
+            "id": 5,
+            "name": "Chair",
+            "category": "Office",
+            "price": 23000,
+            "stock": 16
+        },
+        {
+            "id": 6,
+            "name": "Standing Desk",
+            "category": "Office",
+            "price": 12900,
+            "stock": 15
+        },
+        {
+            "id": 7,
+            "name": "Shelf",
+            "category": "Office",
+            "price": 1590,
+            "stock": 22
+        },
+        {
+            "id": 8,
+            "name": "Coffee Grinder",
+            "category": "Kitchen",
+            "price": 2500,
+            "stock": 47
+        },
+        {
+            "id": 9,
+            "name": "Electric Boiler",
+            "category": "Kitchen",
+            "price": 1050,
+            "stock": 4
+        },
+        {
+            "id": 10,
+            "name": "Pillow",
+            "category": "Bedroom",
+            "price": 599,
+            "stock": 23
+        },
+        {
+            "id": 11,
+            "name": "Electric Fan",
+            "category": "Electronic",
+            "price": 1490,
+            "stock": 53
+        }
+    ]
+}
